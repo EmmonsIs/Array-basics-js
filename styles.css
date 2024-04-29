@@ -1,0 +1,25 @@
+/* Mike Jenkins */
+/* Project name */
+
+/* Reset rule */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Define CSS variables */
+:root {
+  --aquamarine: rgb(127, 255, 212);
+  --white: #fff;
+
+}
+
+body {
+  font-family: Helvetica, sans-serif;
+  font-size: 1.6rem;
+}
+
+
+
